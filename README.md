@@ -1,6 +1,6 @@
 # Bank Marketing Campaign — Classifier Comparison
 
-Jupiter notebook: 
+Jupiter notebook: https://github.com/afauci/bank-term-deposits/blob/main/prompt_III.ipynb
 
 ## Overview
 Analysis of a Portuguese bank's direct marketing campaign data to predict whether a client will subscribe to a term deposit. The goal is to identify which clients are most likely to subscribe, allowing the bank to direct marketing resources more efficiently.
